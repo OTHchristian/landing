@@ -147,7 +147,7 @@ export default function Home() {
 
                 </div>
                 <div className="flex w-full items-center justify-center">
-                  <button className="flex items-center gap-2 bg-blue-900 rounded-full p-3.5 mt-3.5 text-white">
+                  <button className="flex items-center gap-2 bg-blue-900 rounded-full p-3.5 mt-3.5 text-white" onClick={()=>window.location.href='https://t.me/+2-9GuK1WJOFjMGM8'}>
                     Contact Us
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
